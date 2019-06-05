@@ -1,4 +1,4 @@
 # Basic-Portfolio
-#### Built a portfolio site using HTML/CSS
+#### Built a basic portfolio site using HTML/CSS
 
-Preview:
+Preview: https://eunhyegina.github.io/Basic-Portfolio/
